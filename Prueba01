@@ -5,3 +5,8 @@ Start to use github
 
 02
 Edit file
+
+03
+Edit file from test branch
+
+This changes need to be test in tester enviroment, once changes are correct this will pull to master branch
