@@ -10,3 +10,6 @@ Edit file
 Edit file from test branch
 
 This changes need to be test in tester enviroment, once changes are correct this will pull to master branch
+
+04
+Changes in test has been succefully, it now going to produiction
