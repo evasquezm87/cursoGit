@@ -1,0 +1,13 @@
+C:\Desarrollos\Clientes\Signode\XSIG219 - Alerta OC\SJEQV00\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollos\Clientes\Signode\XSIG219 - Alerta OC\SJEQV00\obj\Debug\WindowsApplication1.Form1.resources
+C:\Desarrollos\Clientes\Signode\XSIG219 - Alerta OC\SJEQV00\obj\Debug\WindowsApplication1.Resources.resources
+C:\Desarrollos\Clientes\Signode\XSIG219 - Alerta OC\SJEQV00\obj\Debug\XSIG219.vbproj.GenerateResource.Cache
+C:\Desarrollos\Clientes\Signode\XSIG219 - Alerta OC\SJEQV00\bin\Debug\XSIG219.exe
+C:\Desarrollos\Clientes\Signode\XSIG219 - Alerta OC\SJEQV00\bin\Debug\XSIG219.pdb
+C:\Desarrollos\Clientes\Signode\XSIG219 - Alerta OC\SJEQV00\bin\Debug\XSIG219.xml
+C:\Desarrollos\Clientes\Signode\XSIG219 - Alerta OC\SJEQV00\obj\Debug\XSIG219.exe
+C:\Desarrollos\Clientes\Signode\XSIG219 - Alerta OC\SJEQV00\obj\Debug\XSIG219.xml
+C:\Desarrollos\Clientes\Signode\XSIG219 - Alerta OC\SJEQV00\obj\Debug\XSIG219.pdb
+C:\Desarrollos\Clientes\Signode\XSIG227 - Envio PDF OC\SJEQV00\obj\Debug\XSIG219.exe
+C:\Desarrollos\Clientes\Signode\XSIG227 - Envio PDF OC\SJEQV00\obj\Debug\XSIG219.xml
+C:\Desarrollos\Clientes\Signode\XSIG227 - Envio PDF OC\SJEQV00\obj\Debug\XSIG219.pdb
