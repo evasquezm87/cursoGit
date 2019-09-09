@@ -261,3 +261,5 @@ Module sdoXCONFIGMAIL
     Public bXConfigMail As XConfigMail = New XConfigMail, nXConfigMail As XConfigMail = New XConfigMail
     Public csr_XConfigMail As Integer
 End Module
+
+'Prueba de cambio'
